@@ -53,8 +53,8 @@
     - 운영체제 : https://tan-jersey-c73.notion.site/OSTEP-1-150419fd2c4b80629e0aec82db0c7761?pvs=4
     - 네트워크 : 천시문 
 
-- 2주차 ( OOO, OOO )
-    - 운영체제 :
+- 2주차 ( 조윤서, 최예찬, 2024.12.09 )
+    - 운영체제 : https://www.notion.so/KNUT-CS-b43c3afd586545d8b10b4aa9c5db995e#154f9933e9cb80e78c08ea5930a8dfce
     - 네트워크 :
 
 - 3주차 ( OOO, OOO )
