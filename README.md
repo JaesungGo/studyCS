@@ -54,7 +54,7 @@
     - 네트워크 : 천시문 
 
 - 2주차 ( 조윤서, 최예찬, 2024.12.09 )
-    - 운영체제 : https://www.notion.so/KNUT-CS-b43c3afd586545d8b10b4aa9c5db995e#154f9933e9cb80e78c08ea5930a8dfce
+    - 운영체제 : [https://www.notion.so/KNUT-CS-b43c3afd586545d8b10b4aa9c5db995e#154f9933e9cb80e78c08ea5930a8dfce](https://www.notion.so/2-09-14-157f9933e9cb804890ddc0824a415d37)
     - 네트워크 :
 
 - 3주차 ( OOO, OOO )
