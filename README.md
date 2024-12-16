@@ -58,8 +58,8 @@
     - 네트워크 :
 
 - 3주차 ( 천시문, 조윤서, 고재성 )
-    - 운영체제 :
-    - 네트워크 : [https://www.notion.so/d3bb8f6af9d84672b31966e4e2b0a026?pvs=4]
+    - 운영체제 : [https://www.notion.so/d3bb8f6af9d84672b31966e4e2b0a026?pvs=4]
+    - 네트워크 : 
 
 - 4주차 ( OOO, OOO )
     - 운영체제 :
