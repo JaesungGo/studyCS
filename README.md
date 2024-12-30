@@ -57,13 +57,13 @@
     - 운영체제 : [https://www.notion.so/KNUT-CS-b43c3afd586545d8b10b4aa9c5db995e#154f9933e9cb80e78c08ea5930a8dfce](https://www.notion.so/2-09-14-157f9933e9cb804890ddc0824a415d37)
     - 네트워크 :
 
-- 3주차 ( 천시문, 조윤서, 고재성, 2024-12.16 )
+- 3주차 ( 천시문, 조윤서, 고재성, 2024.12.16 )
     - 운영체제 : [https://www.notion.so/d3bb8f6af9d84672b31966e4e2b0a026?pvs=4]
     - 네트워크 : [https://tan-jersey-c73.notion.site/15d419fd2c4b80e38459d68dc37470cc?pvs=4]
 
-- 4주차 ( 조윤서, OOO )
+- 4주차 ( 조윤서, 고재성, 천시문 2024.12.30 )
     - 운영체제 :[https://www.notion.so/4-21-26-16bf9933e9cb8060b52bd572820decba#16bf9933e9cb807f9e13e8661f7845a1]
-    - 네트워크 :
+    - 네트워크 : https://tan-jersey-c73.notion.site/16a419fd2c4b8015b3faf5d1880be47a?pvs=4
 
 - 5주차 ( OOO, OOO )
     - 운영체제 :
