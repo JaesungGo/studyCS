@@ -66,7 +66,7 @@
     - 네트워크 : https://tan-jersey-c73.notion.site/16a419fd2c4b8015b3faf5d1880be47a?pvs=4
 
 - 5주차 ( OOO, OOO )
-    - 운영체제 : [https://www.notion.so/170aec8da01d809fa14ce2e059862b1c?pvs=4]
+    - 운영체제 : https://www.notion.so/170aec8da01d809fa14ce2e059862b1c?pvs=4
     - 네트워크 : [ https://www.notion.so/5-172f9933e9cb803fa684d03a6727f6f4 ]
 
 - 6주차 ( OOO, OOO )
