@@ -67,7 +67,7 @@
 
 - 5주차 ( OOO, OOO )
     - 운영체제 :
-    - 네트워크 :
+    - 네트워크 : [ https://www.notion.so/5-172f9933e9cb803fa684d03a6727f6f4 ]
 
 - 6주차 ( OOO, OOO )
     - 운영체제 :
