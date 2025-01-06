@@ -62,7 +62,7 @@
     - 네트워크 : [https://tan-jersey-c73.notion.site/15d419fd2c4b80e38459d68dc37470cc?pvs=4]
 
 - 4주차 ( 조윤서, 고재성, 천시문 2024.12.30 )
-    - 운영체제 :[https://www.notion.so/4-21-26-16bf9933e9cb8060b52bd572820decba#16bf9933e9cb807f9e13e8661f7845a1]
+    - 운영체제 : https://dark-bonnet-aba.notion.site/4-21-26-16bf9933e9cb8060b52bd572820decba?pvs=4
     - 네트워크 : https://tan-jersey-c73.notion.site/16a419fd2c4b8015b3faf5d1880be47a?pvs=4
 
 - 5주차 ( OOO, OOO )
