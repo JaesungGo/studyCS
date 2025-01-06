@@ -67,7 +67,7 @@
 
 - 5주차 ( OOO, OOO )
     - 운영체제 : https://www.notion.so/170aec8da01d809fa14ce2e059862b1c?pvs=4
-    - 네트워크 : https://dark-bonnet-aba.notion.site/3-18-19-20-15df9933e9cb80168f4ac771e2b1fa5e?pvs=4
+    - 네트워크 : https://dark-bonnet-aba.notion.site/3-18-19-20-15df9933e9cb80168f4ac771e2b1fa5e?pvs=4 , https://tan-jersey-c73.notion.site/2-172419fd2c4b80069cfefe06e8ff71e3?pvs=4
 
 - 6주차 ( OOO, OOO )
     - 운영체제 : 
