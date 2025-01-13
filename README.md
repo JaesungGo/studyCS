@@ -71,7 +71,7 @@
 
 - 6주차 ( 고재성, 조윤서 )
     - 운영체제 : https://tan-jersey-c73.notion.site/synchronization-179419fd2c4b80ab9ec1d1261a81b1b9?pvs=4
-    - 네트워크 :
+    - 네트워크 : https://dark-bonnet-aba.notion.site/6-178f9933e9cb809ab6bbf34a7203f561?pvs=4
 
 - 7주차 ( OOO, OOO )
     - 운영체제 :
