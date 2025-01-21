@@ -20,7 +20,7 @@
 
 ---
 
-- 2024.12.02 ~ 2025.01.27 ( 8주차 )
+- 2024.12.02 ~ 2025.01.21 ( 7주차 )
   
 - 매주 월요일 14시 ( 필요시 조율 )
 
@@ -73,10 +73,7 @@
     - 운영체제 : https://tan-jersey-c73.notion.site/synchronization-179419fd2c4b80ab9ec1d1261a81b1b9?pvs=4
     - 네트워크 : https://dark-bonnet-aba.notion.site/6-178f9933e9cb809ab6bbf34a7203f561?pvs=4
 
-- 7주차 ( OOO, OOO )
+- 7주차 ( 천시문, 고재성 )
     - 운영체제 :
-    - 네트워크 :
+    - 네트워크 : https://tan-jersey-c73.notion.site/181419fd2c4b8062bf86c0d7d191ffa0?pvs=4
 
-- 8주차 ( OOO, OOO )
-    - 운영체제 :
-    - 네트워크 :
